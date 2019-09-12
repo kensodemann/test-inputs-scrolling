@@ -1,0 +1,7 @@
+{
+  "name": "test-inputs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
